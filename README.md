@@ -103,17 +103,6 @@ java -cp out com.studentrecords.main.Main
 +---------------------------------+
 ```
 
-## GitHub Upload
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: student record management system"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/StudentRecordSystem.git
-git push -u origin main
-```
-
 ## Tech Stack
 
 - Language: Java
